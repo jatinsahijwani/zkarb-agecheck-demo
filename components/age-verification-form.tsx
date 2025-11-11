@@ -67,11 +67,11 @@ export function AgeVerificationForm() {
 
   return (
     <div className="relative overflow-hidden w-full items-center">
-      <img src="/btc.png" className="absolute blur-sm w-16 sm:w-24 top-5 left-10 opacity-80" alt="" />
-      <img src="/btc.png" className="absolute blur-sm w-20 sm:w-28 bottom-20 left-[15%] opacity-80" alt="" />
-      <img src="/btc.png" className="absolute blur-md w-24 sm:w-32 top-1/3 right-[20%] opacity-80" alt="" />
-      <img src="/btc.png" className="absolute blur-sm w-16 sm:w-20 bottom-10 right-10 opacity-80" alt="" />
-      <img src="/btc.png" className="absolute blur-sm w-12 sm:w-16 top-1 left-[80%] opacity-80" alt="" />
+      <img src="/arb.png" className="absolute blur-sm w-16 sm:w-24 top-5 left-10 opacity-80" alt="" />
+      <img src="/arb.png" className="absolute blur-sm w-20 sm:w-28 bottom-20 left-[15%] opacity-80" alt="" />
+      <img src="/arb.png" className="absolute blur-md w-24 sm:w-32 top-1/3 right-[20%] opacity-80" alt="" />
+      <img src="/arb.png" className="absolute blur-sm w-16 sm:w-20 bottom-10 right-10 opacity-80" alt="" />
+      <img src="/arb.png" className="absolute blur-sm w-12 sm:w-16 top-1 left-[80%] opacity-80" alt="" />
 <div className="min-h-screen bg-background flex items-center justify-center p-4">
       <div className="w-full max-w-md space-y-6">
         <div className="text-center space-y-2">
